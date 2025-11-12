@@ -65,7 +65,7 @@ This project is licensed under the MIT License.
 
 ## 🧩 クレジット (Special Thanks)
 
-本作の開発にあたり、以下の素晴らしい素材を利用させていただきました。（※各サイトの利用規約に基づき、素材ファイル自体はリポジトリに含めていません）
+本作の開発にあたり、以下の素晴らしい素材を利用させていただきました。（※各サイトの利用規約に基づき、再配布に当たるとして素材ファイル自体はリポジトリより削除しました。）
   * **画像素材：**
       * [かわいいフリー素材集 いらすとや](https://www.irasutoya.com/)
       * [ICOOON MONO](https://icooon-mono.com/)
